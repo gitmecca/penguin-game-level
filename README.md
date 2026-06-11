@@ -5,7 +5,6 @@ A Unity game featuring a penguin exploring icy environments, collecting food, an
 ## Developer
 
 Jessica Henley
-Creative Career
 
 ### Responsibilities
 
